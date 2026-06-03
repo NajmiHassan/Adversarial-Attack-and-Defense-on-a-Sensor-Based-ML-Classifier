@@ -5,9 +5,6 @@
 human+activity+recognition+using+smartphones/
 UCI HAR Dataset/
 
-# Generated outputs
-results/
-
 # Python cache
 __pycache__/
 *.py[cod]

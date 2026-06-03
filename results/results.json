@@ -1,0 +1,23 @@
+{
+  "config": {
+    "data_dir": "C:\\Users\\786\\Desktop\\Adversarial Robustness of ML Models in Safety-Critical Systems\\human+activity+recognition+using+smartphones\\UCI HAR Dataset\\UCI HAR Dataset",
+    "epochs": 15,
+    "adv_epochs": 15,
+    "lr": 0.001,
+    "batch_size": 128,
+    "eps": 0.1,
+    "alpha": 0.01,
+    "steps": 20,
+    "seed": 0
+  },
+  "baseline": {
+    "clean": 0.9474041398031897,
+    "fgsm": 0.1503223617237869,
+    "pgd": 0.13030200203596878
+  },
+  "defended": {
+    "clean": 0.8690193417034272,
+    "fgsm": 0.670173057346454,
+    "pgd": 0.6521886664404479
+  }
+}
