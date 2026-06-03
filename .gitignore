@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Dataset (download separately from UCI)
+human+activity+recognition+using+smartphones/
+UCI HAR Dataset/
+
+# Generated outputs
+results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
