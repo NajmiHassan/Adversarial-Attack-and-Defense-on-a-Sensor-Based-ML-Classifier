@@ -1,9 +1,8 @@
 # Virtual environment
 .venv/
 
-# Dataset (download separately from UCI)
-human+activity+recognition+using+smartphones/
-UCI HAR Dataset/
+# macOS archive junk
+__MACOSX/
 
 # Python cache
 __pycache__/
